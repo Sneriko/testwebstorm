@@ -35,6 +35,7 @@ class App extends Component {
 			<div>
 				<input type={'text'} onChange={this.changeState} value={this.state.inputString}/>
 				{charboxes}
+				<h2>hejsvejs</h2>
 
       </div>
 		);
